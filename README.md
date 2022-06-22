@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+sum studies of https://github.com/sbis04/flutterfire-samples/tree/crud-firestore
 
 A few resources to get you started if this is your first Flutter project:
 
